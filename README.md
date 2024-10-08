@@ -21,6 +21,7 @@
 8.Highest selling category,etc.
 
 ->INSIGHTS:-
+
 1.Women are more likely to buy compared to men (~65%)
 
 2.Maharashtra, Karnataka and Uttar P radesh are the top 3 states (~35%)
