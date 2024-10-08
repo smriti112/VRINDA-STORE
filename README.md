@@ -1,9 +1,9 @@
 # VRINDA-STORE
-PROJECT NAME:- Vrinda Store Data Analysis
+->PROJECT NAME:- Vrinda Store Data Analysis
 
-OBJECTIVE:- Vrinda Store wants to create an annual sales report for 2022.So that Vrinda can understand their customers and grow more Sales in 2023.
+->OBJECTIVE:- Vrinda Store wants to create an annual sales report for 2022.So that Vrinda can understand their customers and grow more Sales in 2023.
 
-TASK:-
+->TASK:-
 1.Compare the Sales and orders using a single chart.
 
 2.Which month got the highest sales and orders.
@@ -20,7 +20,7 @@ TASK:-
 
 8.Highest selling category,etc.
 
-INSIGHTS:-
+->INSIGHTS:-
 1.Women are more likely to buy compared to men (~65%)
 
 2.Maharashtra, Karnataka and Uttar P radesh are the top 3 states (~35%)
